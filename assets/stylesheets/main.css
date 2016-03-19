@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+ext-align: left;
+
+}
+li {
+    display: inline;
+}
+#values {
+    display: block;
+    text-align: center;
+}
