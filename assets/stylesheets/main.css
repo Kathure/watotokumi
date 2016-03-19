@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: aqua;
     font-family: cursive;
 }
 ext-align: left;
@@ -16,8 +16,5 @@ li {
     display: inline;
 }
 .image {
-    width: 50%;
-}
-.ipsum {
-    color: brown;
+    image-resolution: 30px 60px;
 }
