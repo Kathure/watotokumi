@@ -5,10 +5,13 @@ body {
 ext-align: left;
 
 }
-li {
+.navig {
     display: inline;
 }
-#values {
-    display: block;
-    text-align: center;
+ul {
+    list-style-type: none;
+    display: inline;
+}
+li {
+    display: inline;
 }
